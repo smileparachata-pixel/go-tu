@@ -3,7 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	age := 56            // อายุ (ปี)
+	age := 500           // อายุ (ปี)
 	hasPassport := true  // มีพาสปอร์ตหรือไม่
 	lugageWeight := 25   // น้ำหนักกระเป๋า (กิโลกรัม)
 	ticketClass := "eco" // ประเภทตั๋ว (first,biz,eco)
